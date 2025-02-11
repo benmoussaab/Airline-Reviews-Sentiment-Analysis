@@ -4,7 +4,7 @@ This repository contains a sentiment analysis project for airline reviews, devel
 
 ## 📌 Project Overview
 
-The goal of this project is to analyze airline customer reviews and classify them into sentiment categories (e.g., positive, neutral, or negative). It was just a bit application for my last coursera course
+The goal of this project is to analyze airline customer reviews and classify them into sentiment categories (positive or negative). It was just a bit application for my last coursera course
 
 ## 📊 Dataset
 
