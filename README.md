@@ -13,13 +13,6 @@ The dataset consists of airline reviews collected from passengers. It includes:
 - Sentiment labels (Positive, Neutral, Negative)
 - Additional metadata (e.g., airline name, date, rating)
 
-## 🛠️ Technologies Used
-
-- **Python**: Data processing and modeling
-- **Pandas**: Data manipulation
-- **Scikit-learn**: Machine learning models
-- **NLTK / spaCy**: Text preprocessing
-- **Jupyter Notebook**: Code development
 
 ## 🔄 Preprocessing Steps
 
@@ -33,7 +26,7 @@ The dataset consists of airline reviews collected from passengers. It includes:
 Different machine learning models are trained to classify sentiment, including:
 - Logistic Regression
 - XGBoost
-- Deep Learning
+
 
 ## 📈 Model Evaluation
 
